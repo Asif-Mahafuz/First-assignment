@@ -7,3 +7,21 @@ h1{
 .First{
     color: maroon;
 }
+section{
+    display: flex;
+}
+.sec_one{
+    width: 50%;
+    padding: 20px;
+}
+.sec_one img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    color: wheat;
+    font-weight: 1000;
+    padding: 10px 30px;
+    border-radius: 8%;
+}
